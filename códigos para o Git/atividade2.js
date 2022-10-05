@@ -9,7 +9,7 @@
  
  // Secao de Declaracoes
  var
- int num1,num2,subtracao;
+ int = num1,num2,subtracao;
  
  inicio
  // Secao de Comandos
