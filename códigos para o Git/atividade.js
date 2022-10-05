@@ -1,6 +1,6 @@
 /*
  
- Olá, estarei compartilhando com vocês algumas atividades feitas por mim
+ Olá, estarei compartilhando com vocês uma atividade feita por mim
  utilizando algoritmos
 
  Algoritmo "Média, Soma e Multiplicação da nota dos Alunos"
